@@ -195,7 +195,7 @@ Here’s an example of how to set up your HTML:
 
 .neon-display {
     text-align: center;
-	font-family: 'Lobster', cursive;
+    font-family: 'Lobster', cursive;
     margin-bottom: 10px;
 }
 
@@ -240,10 +240,8 @@ Here’s an example of how to set up your HTML:
     </button>
 </div>
 
-
-    
     <script src="https://www.youtube.com/iframe_api"></script>
-    <script src="path/to/your/script.js"></script> <!-- Link to your JavaScript file -->
+    <script src="path/to/your/ytplayer.js"></script> <!-- Link to your JavaScript file -->
 </body>
 </html>
 ```
